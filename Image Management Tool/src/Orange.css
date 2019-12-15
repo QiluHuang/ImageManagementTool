@@ -1,0 +1,41 @@
+
+
+.root{
+    -fx-background-color: #696969;
+}
+.menu-bar{
+    -fx-background-color: #FEBB01;
+}
+.menu-button{
+    -fx-background-color: #FEBB01;
+    -fx-font-size: 12pt;
+}
+.vBox{
+    -fx-background-color: #FEBB01;
+}
+.grid{
+    -fx-background-color: #696969
+}
+
+
+
+
+
+/**
+.label{
+    -fx-text-fill: #e8e8e8;
+}
+.button{
+    -fx-background-color: #FFFFFF;
+    -fx-text-fill: #F5F5F5;
+    -fx-background-radius: 4;
+}
+.button-blue{
+    -fx-background-color: #FFFFFF;
+    -fx-text-fill: #F5F5F5;
+    -fx-background-radius: 4;
+}
+#bold-label{
+    -fx-font-weight: bold;
+}
+ */
